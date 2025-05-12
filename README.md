@@ -9,23 +9,17 @@ Keycheck es una herramienta diseñada para mapear periféricos de entrada y most
 3. Ejecuta el instalador y sigue las instrucciones en pantalla.
 
 ## Uso
-1. Abre Keycheck y conecta tus periféricos de entrada (teclado, mouse, control).
+1. Abre Keycheck.
 2. Ajusta la configuración según tus necesidades.
 3. Usa la herramienta de croma en OBS para personalizar la visualización.
 4. Disfruta del monitoreo en tiempo real mientras juegas.
 
 ## Requisitos del Sistema
-- **Sistema Operativo**: Windows 10 o superior
-- **Procesador**: Intel i5 / AMD Ryzen 5 o superior
-- **Memoria RAM**: 8GB mínimo
-- **Software adicional**: OBS Studio para integración visual
+-No establecidos
 
 ## Contribuciones
 Si deseas contribuir al desarrollo de Keycheck, visita nuestro repositorio en [enlace a GitHub]. Se aceptan sugerencias, reportes de errores y mejoras.
 
-## Licencia
-Este proyecto está bajo la licencia [tipo de licencia]. Para más detalles, consulta el archivo LICENSE incluido.
-
 ## Contacto
-Para soporte o consultas, puedes contactarnos en [correo o sitio web].
+Para soporte o consultas, puedes contactarnos en [saltormandev@hotmail.com].
 
